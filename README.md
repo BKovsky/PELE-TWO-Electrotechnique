@@ -12,9 +12,9 @@ Tout et n'importe quoi sur l'électrotechnique
 
 ### Piles & accumulateurs
 [The Engeneering Mindset](https://www.youtube.com/watch?v=boFwdeTY3-g)<br>
-Description : Fonctionnement des piles et accumulateurs
-Type : Vidéo
-Durée : 18 min
-Langue : Français
+Description : Fonctionnement des piles et accumulateurs<br>
+Type : Vidéo<br>
+Durée : 18 min<br>
+Langue : Français<br>
 
 [Retour à la page d'accueil](https://bkovsky.github.io/PELE-TWO/)
