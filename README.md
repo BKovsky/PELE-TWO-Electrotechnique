@@ -11,7 +11,7 @@ Tout et n'importe quoi sur l'électrotechnique
 [Circuits mixtes](url)
 
 ### Piles & accumulateurs
-[The Engeneering Mindset](https://www.youtube.com/watch?v=boFwdeTY3-g)<br>
+[Les piles - The Engeneering Mindset](https://www.youtube.com/watch?v=boFwdeTY3-g)<br>
 Description : Fonctionnement des piles et accumulateurs<br>
 Type : Vidéo<br>
 Durée : 18 min<br>
